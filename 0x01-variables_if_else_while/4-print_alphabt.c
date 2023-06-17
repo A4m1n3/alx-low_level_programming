@@ -10,6 +10,6 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	puts("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ");
+	puts("abcdfghijklmnoprstuvwxyz");
 	return (0);
 }
