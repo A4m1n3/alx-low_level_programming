@@ -10,11 +10,11 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	char letter;
-	
-	for (letter = 'z'; letter >= 'a'; letter--)
+	char l;
+
+	for (l = 'z'; l >= 'a'; l--)
 	{
-	putchar(letter);
+	putchar(l);
 	}
 
 	putchar('\n');
