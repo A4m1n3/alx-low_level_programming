@@ -10,12 +10,14 @@ int main() {
 
 	int i;
 	
-	putchar('0');
-	for (i = 1; i < 10; i++)
+	for (i = 0; i < 10; i++)
 	{
+		putchar(i + '0');
+		if (i == 9)
+			break;
 		putchar(',');
 		putchar(' ');
-		putchar(i + '0');
+	
 	}
 
 	putchar('\n');
