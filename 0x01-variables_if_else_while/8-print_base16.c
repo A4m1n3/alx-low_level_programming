@@ -8,16 +8,18 @@
 
 int main(void)
 {
-    char alphanum;
+	char alphanum;
 
-        for (alphanum = '0'; alphanum <= '9'; alphanum++) {
-		        putchar(alphanum);
-			    }
+	for (alphanum = '0'; alphanum <= '9'; alphanum++)
+	{
+		putchar(alphanum);
+	}
 
-	    for (alphanum = 'a'; alphanum <= 'f'; alphanum++) {
-		            putchar(alphanum);
-			        }
+	for (alphanum = 'a'; alphanum <= 'f'; alphanum++)
+	{
+		putchar(alphanum);
+	}
 
-	        putchar('\n');
+	putchar('\n');
 	return (0);
 }
