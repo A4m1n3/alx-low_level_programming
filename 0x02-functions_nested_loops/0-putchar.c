@@ -1,11 +1,9 @@
 #include "main.h"
-
 /*
  *This is a main comment
  *
  *
  */
-
 int main(void)
 {
 	/* Your code here */
