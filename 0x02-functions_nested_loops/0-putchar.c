@@ -4,7 +4,7 @@
  *
  *
  */
-int main() /*This is a code*/
+int main(void)
 {
 	/* Your code here */
 	_putchar('_');
