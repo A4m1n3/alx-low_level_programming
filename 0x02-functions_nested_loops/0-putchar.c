@@ -1,12 +1,13 @@
 #include "main.h"
 /**
- *This is a main comment
+ * This is a main comment
+ *
  *
  *
  */
-int main(void)
+int main(void) /*Hey there */
 {
-	/* Your code here */
+/* Your code here */
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -16,6 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	return (0);
+	return (0); /* The program returns 0*/
 
 }
