@@ -1,10 +1,10 @@
 #include "main.h"
 
-/* 
- * This is a main comment
+/*
+ *This is a main comment
  *
  *
- * */
+ */
 
 int main(void)
 {
