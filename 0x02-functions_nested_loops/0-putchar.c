@@ -6,7 +6,7 @@
  *
  */
 int main(void) /*Hey there */
-{
+
 /* Your code here */
 	_putchar('_');
 	_putchar('p');
