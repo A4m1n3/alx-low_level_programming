@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  *This is a main comment
  *
  *
