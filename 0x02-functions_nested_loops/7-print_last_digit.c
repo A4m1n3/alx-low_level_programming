@@ -9,7 +9,7 @@
 int print_last_digit(int n)
 {
 	int tmp = n % 10 ;
-	if tmp >=0
+	if (tmp >=0)
 		return (tmp);	
 	else 
 		return (-tmp);
