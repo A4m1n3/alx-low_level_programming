@@ -1,12 +1,15 @@
 #include "main.h"
+
 /**
  * This is a main comment
  *
  *
  *
+ *
  */
-int main(void) /*Hey there */
 
+int main(void) /*Hey there *
+{
 /* Your code here */
 	_putchar('_');
 	_putchar('p');
