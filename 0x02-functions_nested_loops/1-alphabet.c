@@ -1,12 +1,11 @@
 #include "main.h"
 
 /*
- * This 
+ * This
  * is
- * a main 
+ * a main
  * description
  */
-
 void print_alphabet(void)
 {
 	char letter = 'a';
