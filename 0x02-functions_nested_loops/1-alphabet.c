@@ -1,9 +1,9 @@
 #include "main.h"
 
-/*
+/**
  * This
  * is
- * a main
+ * a main print_alphanet
  * description
  */
 void print_alphabet(void)
