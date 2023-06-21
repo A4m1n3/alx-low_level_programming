@@ -1,10 +1,7 @@
 #include "main.h"
 
 /**
- * This
- * is
- * a main print_alphanet
- * description
+ * print_alphabet - Prints the alphabet in lowercase
  */
 void print_alphabet(void)
 {
