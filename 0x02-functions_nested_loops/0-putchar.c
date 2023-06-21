@@ -8,7 +8,7 @@
  *
  */
 
-int main(void) /*Hey there *
+int main(void) /*Hey there */
 {
 /* Your code here */
 	_putchar('_');
