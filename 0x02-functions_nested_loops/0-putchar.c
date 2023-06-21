@@ -1,16 +1,12 @@
-#include "main.h"
+include "main.h"
 
 /**
- * This is a main comment
+ * main - Entry point of the program
  *
- *
- *
- *
+ *  Return: Always 0
  */
-
-int main(void) /*Hey there */
+int main(void)
 {
-/* Your code here */
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -20,7 +16,6 @@ int main(void) /*Hey there */
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	return (0); /* The program returns 0*/
-/*Hey*/
+
+	return (0);
 }
-/*Hey*/
