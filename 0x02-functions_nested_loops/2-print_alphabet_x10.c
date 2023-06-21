@@ -5,8 +5,9 @@
  */
 void print_alphabet_x10(void)
 {
-	int i = 0;
+	int i;
 	char letter = 'a';
+
 	for (i = 0; i < 10; i++)
 	{
 		while (letter <= 'z')
@@ -15,5 +16,6 @@ void print_alphabet_x10(void)
 				letter++;
 			}
 	_putchar('\n');
+	letter = 'a';
 	}
 }
