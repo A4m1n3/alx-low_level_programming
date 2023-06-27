@@ -4,7 +4,7 @@
 /**
  * _strlen -  changes value of pointers
  * @s : string
- * return value : voidr
+ * return : the variable @i 
  */
 int _strlen(char *s)
 {
