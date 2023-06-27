@@ -14,10 +14,10 @@ void puts_half(char *str)
 
 	while (*(str + i) != '\0')
 		i++;
-	
+
 	if (i % 2 == 0)
 		start = i / 2;
-	else 
+	else
 		start = (i - 1) / 2;
 
 
@@ -26,4 +26,5 @@ void puts_half(char *str)
 		_putchar(*(str + start));
 		start++;
 	}
+	_putchar('\n');
 }
