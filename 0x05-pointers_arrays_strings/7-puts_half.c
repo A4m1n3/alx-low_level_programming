@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * rev_string -  changes value of pointers
- * @*s : character
- * @s : idem
+ * puts_half -  changes value of pointers
+ * @*str : character
+ * @str : idem
  * return : void
  */
 void puts_half(char *str)
