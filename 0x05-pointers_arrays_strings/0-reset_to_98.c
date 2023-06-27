@@ -4,7 +4,7 @@
 /**
  * reset_to_98 - changes value of pointer n to 98
  * return value : voi
- * @n ! variable to pointer
+ * @n @*n : variable to pointer
  */
 void reset_to_98(int *n)
 {
