@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * rev_string -  changes value of pointers
- * @*s : character
- * @s : idem
+ * puts2-  changes value of pointers
+ * @str : character
+ * @*str : idem
  * return : void
  */
 void puts2(char *str)
@@ -19,7 +19,6 @@ void puts2(char *str)
 	while (start <= end)
 	{
 		_putchar(*start);
-		
 		start++;
 		start++;
 
