@@ -13,8 +13,7 @@ void rev_string(char *s)
 	char *end = s;
 
 	while (*end)
-		end ++;
-	end--;
+		end++;
 	end--;
 
 	while (start < end)
@@ -25,6 +24,4 @@ void rev_string(char *s)
 		start++;
 		end--;
 	}
-
-	_putchar('\n');
 }
