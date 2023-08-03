@@ -30,6 +30,6 @@ int helper_recursive_function(int n, int i)
 		return (-1);
 	else if (i * i == n)
 		return (i);
-	else 
+	else
 		return (helper_recursive_function(n, i + 1));
 }
