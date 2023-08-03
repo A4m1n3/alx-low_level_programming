@@ -20,7 +20,7 @@ int is_palindrome(char *s)
  * _strlength - length of a string
  * @s: input string
  *
- * Return: length 
+ * Return: length
  */
 int _strlength(char *s)
 {
