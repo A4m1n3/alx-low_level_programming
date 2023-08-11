@@ -1,3 +1,4 @@
+#include<stdlib.h>
 #include "main.h"
 /**
 * malloc_checked – if ok returns 98
@@ -13,5 +14,5 @@ void *malloc_checked(unsigned int b)
    n = malloc(b);
    if (n == NULL)
        exit(98);
-   return (n);
+return (n);
 }
