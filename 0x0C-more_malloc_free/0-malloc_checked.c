@@ -1,7 +1,7 @@
 #include<stdlib.h>
 #include "main.h"
 /**
-* malloc_checked – if ok returns 98
+* *malloc_checked – if ok returns 98
 *
 * @b: allocated memory
 *
